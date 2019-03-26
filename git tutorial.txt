@@ -1,0 +1,5 @@
+1. 如果local端不是最新版本 再新增東西會push不上去
+solution: pull(讓local端更新為網路上最新版本) ->edit -> push
+2. 拿到別人的專案並更新
+fork somebody's repo -> clone-> edit-> push -> pull request
+3. 新增branch
