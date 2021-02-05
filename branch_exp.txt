@@ -1,2 +1,8 @@
 this is an experiment about branch
-2021/02/05: add this file
+all the experiments procedures and results are recored here
+2021/02/05 15:04: add this file, add, commit, push (f8fa5a)
+* delete file on remote:
+    2021/02/05 15:13: add "dead_file.txt", add, commit, push (2d6fc8)
+    2021/02/05 15:15: delete "dead_file.txt" on remote (3fcfa0)
+    2021/02/05 15:23: pull successifully, "dead_file.txt" is deleted successfully in local
+
