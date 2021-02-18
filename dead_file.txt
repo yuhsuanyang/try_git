@@ -1,2 +1,1 @@
 this is a file that need to be deleted
-this is a line need to be deleted
