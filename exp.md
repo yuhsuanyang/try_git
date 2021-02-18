@@ -18,4 +18,6 @@ all the experiments procedures and results are recored here
     *   2021/02/09 14:30: accidently merge 2021_Feb by master, and the "README.md" appears in branch 2021_Feb. Pull and "README.md" appears in local
     *   2021/02/09 15:00 rm "README.md", and git status appear "deletion: READ.md"
     *   2021/02/09 git add README.md, commit, push, successfully (note that if reset head to the earlier version, the file can be rescued)
-
+* delete some contents in a file from remote:
+    *   2021/02/18 delete a line from "dead_file.txt", commit
+    *   2021/02/18 15:43 pull successifully, local file is changed
