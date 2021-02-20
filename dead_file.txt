@@ -1,3 +1,1 @@
 this is a file that need to be deleted
-This is a line that is not completed,
-I finished it now 
