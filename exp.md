@@ -21,3 +21,12 @@ all the experiments procedures and results are recored here
 * delete some contents in a file from remote:
     *   2021/02/18 delete a line from "dead_file.txt", commit
     *   2021/02/18 15:43 pull successifully, local file is changed
+*   git rm and git rm --cached
+    *   2021/02/20 10:10 git rm dead_file.txt, dead_file.txt disappear in local
+    *   2021/02/20 10:15 git checkout -- dead_file.txt, dead_file.txt recued
+    *   2021/02/20 10:20 git rm -- cashed dead_file.txt, dead_file.txt stillin folder, but git status shows that it has changes to be commit 
+* something commited (but not yet pushed), want to undo the modified file
+    *   2021/02/20 10:05  modify dead_file.txt but not finished, add, commit (fa410c8)
+    *   2021/02/20 10:32 git reset HEAD~1 (7c1e39c)
+    *   2021/02/20 10:32 finish dead_file.txt, add, commit (892151b)
+    *   2021/02/20 10:34 git log shows that fa410c8 is replaced by 892151b
